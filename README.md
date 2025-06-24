@@ -2,6 +2,7 @@
 
 [![bsiever's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsiever&show_icons=true)](https://github.com/bsiever/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsiever)](https://github.com/bsiever/)
 
 <!--
 **bsiever/bsiever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
