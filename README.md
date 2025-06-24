@@ -1,6 +1,6 @@
 ## Hi 👋
 
-[![bsiever's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsiever)](https://github.com/anuraghazra/github-readme-stats)
+[![bsiever's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsiever)](https://github.com/bsiever/)
 
 
 <!--
